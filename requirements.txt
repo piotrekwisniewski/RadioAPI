@@ -1,0 +1,10 @@
+# requirements
+
+Django>=5.0,<6.0
+djangorestframework
+psycopg2-binary
+pytest
+pytest-django
+drf-dark-shade
+drf-yasg
+python-dotenv
