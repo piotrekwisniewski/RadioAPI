@@ -1,2 +1,12 @@
 * text=auto
 *.py text eol=lf
+
+# Marked Python as a main language
+*.py linguist-language=Python
+*.ipynb linguist-language=Python
+
+
+# Ignore HTML during language detection
+*.html linguist-detectable=false
+*.css linguist-detectable=false
+*.js linguist-detectable=false
