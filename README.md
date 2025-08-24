@@ -1,7 +1,7 @@
 {"lang" : "EN"}  
-(Polish decsription below)
+#### (Polish decsription below)
 
-# RestHits –
+# RestHits :radio:
 
 REST API application for managing radio hits, based on Django, PostgreSQL, and Docker.
 
@@ -62,13 +62,11 @@ git clone https://github.com/piotrekwisniewski/RadioAPI
 - **Database seeding:**  
   `docker-compose run web python manage.py db_populate`
 
-
----
-
-{"lang" : "PL"}
+___
+{"lang" : "PL"}  
 
 
-# RestHits 
+# RestHits :radio:
 
 Aplikacja REST API do zarządzania hitami radiowymi, oparta o Django, PostgreSQL i Docker.
 
